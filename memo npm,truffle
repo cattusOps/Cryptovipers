@@ -1,0 +1,15 @@
+npm install websocket
+npm run serve
+
+
+src  1.png로 삽입 --> 다른 동물로도 소스를 바꾸어 만들수 있음
+
+npm install web3@latest --save --global  --->web3모듈 받는 코드
+
+
+2. truffle.cmd compile
+
+3. truffle.cmd migrate
+3.5 오류시 -> truffle.cmd migrate --reset
+
+4. npm run dev
